@@ -1,5 +1,5 @@
 # Tutorials
 Contains practice code for the following technologies:
   - TypeScript
-  - Angular 4 
+  - Angular 6 
 
